@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "system",
+    "declaration": true,
+    "sourceMap": true,
+    "outFile": "index.js",
+    "outDir": "./lib",
+    "rootDir": "./src"
+  }
+}
