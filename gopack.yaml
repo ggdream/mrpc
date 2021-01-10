@@ -1,0 +1,10 @@
+name: mrpc
+version: 0.0.1
+author: ggdream
+description: rpc.
+repository: github.com/ggdream/mrpc
+env: go1.15.5-linux/amd64
+scripts: {}
+packages:
+  github.com/ggdream/crypto: v1.1.4
+  github.com/ggdream/requests: v0.0.2
